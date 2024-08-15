@@ -129,7 +129,7 @@ Power BI:  Utilized for data exploration, basic analysis, and visualizations.
 
 ‘Pizza_Sales_Dashboard.pbix’:  [Download the Pizza Sales Dashboard](Pizza_Sales_Dashboard.pbix) Power BI file containing details on EDA, data transformations, and visualizations.
 
-‘Pizza Sales Analysis Report.pptx’: [Download the presentation](slides/Pizza%20Sales%20Analysis%20Report.pptx) PowerPoint file to show summary of key findings and recommendations along with database queries, their results and visualizations.
+‘Pizza Sales Analysis Report.pptx’:  [Download the presentation](slides/Pizza%20Sales%20Analysis%20Report.pptx) PowerPoint file to show summary of key findings and recommendations along with database queries, their results and visualizations.
 
 ‘Pizza_Sales_Dashboard.pdf’: [Download the Dashboard Preview in pdf](Pizza_Sales_Dashboard.pdf) Pdf file of dashboard for viewing final output.
 
