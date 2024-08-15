@@ -41,7 +41,7 @@ It will load the data, which we can transform in power query
 ## 2.	 Data Cleaning:
 After loading the data for editing in Power Query, I Checked for duplicates and if found removed duplicate records, missing values, or inconsistencies in the data. 
 
-Checked for data types of columns and the header names of each table. I applied ‘use first row as header’ option on tables where I found inconsistencies.
+Checked for data types of columns and the header names of each table. I applied ‘use first row as header’ option on tables where I found inconsistencies. After applying initial changes to dataset, I clicked on 'Close and Apply' tab to load the data.
 
 <img src="images/close_and_apply.png" alt="close_and_apply" width="600">
 
@@ -72,13 +72,14 @@ Analyzed the percentage contribution of different pizza sizes to total revenue i
 
 ## 5.	Date Related Columns:
 
-Day Name: To apply in slicer filteration nfor detailed view of sales on daily basis.
+Day Name: To apply in slicer filteration and for detailed view of sales on daily basis.
 
 <img src="images/day_name.png" alt="day_name">
  
 Month Name: To analyze monthly trends for orders.
  
 <img src="images/month_name.png" alt="month_name">
+
 Hour: To find out peak hours of the day
 
 <img src="images/hour.png" alt="hour"> 
@@ -93,10 +94,17 @@ I created a separate table for keeping all DAX measures within this tables named
  
  <img src="images/key_measures.png" alt="key_measures">
  
+ <img src="images/total_revenue.png" alt="total_revenue">
+
+ <img src="images/total_orders.png" alt="total_orders">
  
- 
- 
- 
+ <img src="images/total_pizzas_sold.png" alt="total_pizzas_sold">
+
+ <img src="images/average_order_value.png" alt="average_order_value">
+
+ <img src="images/average_pizzas_per_order.png" alt="average_pizzas_per_order">
+
+ <img src="images/kpi.png" alt="kpi">
 
 ## Visualizations:
 Pie Chart:	For viewing percentage contribution of Pizza sizes and categories to total revenue.
