@@ -1,5 +1,11 @@
 # Pizza Sales Analysis Report_Power BI
 
+<img src="images/Pizza_Sales_1.jpg" alt="power_query" width="800" > 
+
+<img src="images/Pizza_Sales_2.jpg" alt="power_query" width="800" >
+
+
+
 Welcome to my Pizza Sales Analysis project, that show case my data analysis skills using MySQL and Power BI. This project uncover insights and trends that can help in making informed business decisions for boosting business revenue. 
 
 
